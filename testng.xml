@@ -3,7 +3,11 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+<<<<<<< HEAD
       <class name="com.first.App"/>
+=======
+       <class name="com.first.App"/>
+>>>>>>> 23b8a28b636c6610ecb8e8a6da5df5a5dadef2dc
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
